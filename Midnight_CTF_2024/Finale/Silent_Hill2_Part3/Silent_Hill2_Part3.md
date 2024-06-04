@@ -1,6 +1,14 @@
 # Challenge : 
 
-Nous récupérions le fichier compressé suivant. 
+## Enoncé
+
+```
+James à pu intercepter des communications et des échanges entres les deux pyramid Head. 
+Pourrez-vous retrouver le message initial ?
+```
+
+## Résolution 
+Nous récupérons le fichier compressé suivant. (Silent_Hill_2_Part_3.7z) 
 En le décompressant, nous obtenons deux fichiers : 
 
 - une image : 
