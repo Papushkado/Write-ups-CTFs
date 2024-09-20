@@ -21,6 +21,8 @@ Flag format: flag-[0-9]{36,72}
 The flag follows the same format as in the previous level. However, since the test set is larger, the flag should be longer.
 
 ```
+On dispose des fichiers [dataset_test_3](dataset_test_3.csv) et [dataset_train_3](dataset_train_3.csv)
+
 ## Résolution
 
 On applique un algorithme d'apprentissage en utilisant la méthode KNN. (exactement comme le précédent)
