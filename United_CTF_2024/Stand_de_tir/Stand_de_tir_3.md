@@ -81,4 +81,4 @@ flag_str = ''.join(map(str, predicted_scores_rounded))
 flag = f"flag-{flag_str}"
 print("Generated flag:", flag)
 ```
-
+![alt text](image.png)
