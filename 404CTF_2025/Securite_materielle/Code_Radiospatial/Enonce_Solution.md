@@ -1,4 +1,4 @@
-**Code Radiospatial n°1**
+# Code Radiospatial n°1
 medium
 
 Auteur : acmo0
@@ -7,9 +7,9 @@ Auteur : acmo0
 Vous avez intercepté une transmission POCSAG confidentielle, retrouvez les informations échangées.
 Le format du fichier est au format IQ Complex64 et la fréquence d'échantillonnage est de 4.9152 MHz.
 
-Le fichier chall.iq est fourni.
-
+_Le challenge est fourni avec le fichier chall.iq_
 ---
+# Solution 
 
 **Étapes de traitement :**
 
