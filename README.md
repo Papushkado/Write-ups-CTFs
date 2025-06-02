@@ -2,6 +2,7 @@
 
 ## Résultats 
 
+- 404CTF 2025 : 106ème / 2893
 - United CTF 2024 : 33ème / 478
 - Shutlock CTF 2024 : 51ème / 1536
 - Midnight CTF 2024 : 13ème / 158 équipes (Professionnelles et étudiantes)
