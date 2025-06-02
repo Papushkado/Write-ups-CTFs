@@ -3,12 +3,13 @@ easy
 Auteur : acmo0
 
 Il est 7h du matin et vous décidez d'écouter votre station préférée pour vous réveiller. Vous allumez le poste, mais rien, à part une odeur de brûlé et une épaisse fumée qui s'élève du pauvre poste de radio. Tant pis, vous décidez de faire votre propre démodulateur FM pour entendre votre station favorite.
----
+
 La fréquence d'échantillonage est de 48kHz
----
+
 Le flag est insensible à la case et au format 404CTF{<ce vous entendez après démodulation>}
 
-_Le challenge est fourni avec le fichier chall.iq_
+_Le challenge est fourni avec le fichier [chall.iq](./chall.iq)_
+
 ---
 
 # Solution

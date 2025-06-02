@@ -7,13 +7,14 @@ Auteur : acmo0
 Vous avez intercepté une transmission POCSAG confidentielle, retrouvez les informations échangées.
 Le format du fichier est au format IQ Complex64 et la fréquence d'échantillonnage est de 4.9152 MHz.
 
-_Le challenge est fourni avec le fichier chall.iq_
+_Le challenge est fourni avec le fichier [chall.iq](./chall.iq)_
+
 ---
 # Solution 
 
 **Étapes de traitement :**
 
-1. Chargement du flux IQLecture binaire du fichier chall.iq en np.complex64 via np.fromfile.
+1. Chargement du flux IQLecture binaire du fichier [chall.iq](./chall.iq) en np.complex64 via np.fromfile.
 
 2. Décalage de fréquence (frequency shift)Si la porteuse POCSAG n'est pas exactement centrée, on multiplie chaque échantillon par  pour recentrer. Dans notre cas, la porteuse était déjà centrée → FREQ_SHIFT = 0.
 
