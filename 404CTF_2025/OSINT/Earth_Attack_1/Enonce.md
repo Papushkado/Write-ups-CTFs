@@ -5,6 +5,7 @@ Auteur : Sherpearce
 Une conversation entre deux individus suspects a été interceptée. Ils font du repérage sur des usines d'aéronautique depuis des semaines et semblent malintentionnés. Saurez-vous trouver la première entreprise ciblée ?
 
 Format du flag : 404CTF{airbus_helicopters}
+
 ---
 # Solution
 Challenge très compliqué car l'on possède très peu d'information :

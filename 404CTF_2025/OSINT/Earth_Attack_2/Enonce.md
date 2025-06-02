@@ -6,7 +6,8 @@ Les malfrats vont s'en prendre à une usine aérospatiale ! Nos infomateurs indi
 
 Format du flag : 404CTF{19_avenue_du_gorfou}
 
-***3 attempts only**
+**3 attempts only**
+
 ---
 # Solution
 Ici on dispose d'une image avec des morceaux cachés : 
@@ -32,6 +33,8 @@ Cependant aucune des deux usines à proximité ne convient ... d'où mon erreur 
 En allant faire des courses à les Muraux, le GPS me dit de tourner : **Route de Verneuil**; alors obnubilé par ce challenge je me rends compte qu'il y a une usine d'aéronautique juste à côté ...
 
 Alors le flag est `404CTF{66_route_de_verneuil}`
+
+Autres outils utilisés : Overpass turbo, recherches des stations totales
 
 
 
