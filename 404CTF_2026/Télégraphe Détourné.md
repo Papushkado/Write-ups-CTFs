@@ -1,18 +1,4 @@
-# Télégraphe Baudot
-Web - XSS
-Auteur : ???
-
----
-
-## Énoncé
-
-Le télégraphe Baudot (inventé par Émile Baudot en 1874) est une avancée majeure qui a rapproché brutalement le vieux télégraphe de l'ordinateur que nous connaissons aujourd'hui. Pour le commémorer, votre ami Jean Baudot (qui n'est évidemment pas un descendant d'Émile Baudot) a créé un site à thème assez simple pour débuter dans la programmation. Prouvez-lui qu'il n'est pas près de devenir un vrai programmeur s'il ne se documente pas assez sur les technologies qu'il implémente...
-
-- Le `/flag` permet d'obtenir le flag...
-- "Signaler un problème" vous permettra d'amener un admin sur la page
-- L'admin n'a pas accès à Internet
-
----
+# Télégraphe Détourné
 
 # Solution
 
